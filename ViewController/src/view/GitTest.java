@@ -5,6 +5,6 @@ public class GitTest {
         super();
     System.out.println("AAA");
         System.out.println("BBB");
-        System.out.println("DDDD");
+        System.out.println("CCCC");
     }
 }
