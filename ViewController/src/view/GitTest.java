@@ -3,6 +3,6 @@ package view;
 public class GitTest {
     public GitTest() {
         super();
-        System.out.println("AAAA");
+        System.out.println("SSS");
     }
 }
